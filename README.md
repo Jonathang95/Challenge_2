@@ -1,7 +1,11 @@
 # [Jonathan Garcia Portfollio](https://jonathang95.github.io/Challenge_2/)
+
 [Github Repository](https://github.com/Jonathang95/Challenge_2)
 
+![](Challenge_2/Assets/images/Screenshot%202024-01-08%20172203.png)
+
 ## Description
+Jonathan Garcia is an aspiring developer on this portfollio page you'll find various different information about himself, his experience and his previous work.
 ## Installation
 N/A
 
